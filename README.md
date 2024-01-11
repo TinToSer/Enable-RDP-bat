@@ -1,5 +1,5 @@
 # Enable-RDP-bat
-To enable RDP, disable NLA and allow even blank passwords
+To enable RDP, enable NLA and allow even blank passwords
 
 **Run this script as an admin
 
